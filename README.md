@@ -22,5 +22,7 @@ clone the repo
 requirements.txt   
 ` pip install -r requirements.txt`
 
-Run the GUI interface
+Run the GUI interface   
 `python3 main.py`
+
+## Usage
