@@ -16,10 +16,10 @@ Features provided by stainql are :
 
 ## Installation
 
-clone the repo
+clone the repo   
 `git clone https://github.com/sumeet-darekar/stainql-GUI.git`
 
-requirements.txt
+requirements.txt   
 ` pip install -r requirements.txt`
 
 Run the GUI interface
