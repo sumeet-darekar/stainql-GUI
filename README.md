@@ -9,11 +9,18 @@ Stainql is a simple graphql api testing tool.
 
 Features provided by stainql are :
 - Introspection query check.
-- "><img src=z onerror=alert(1)>
 - Graphql endpoint detection using inbuild wordlist.
 - CSRF(Cross-Site Request Forgery) check
 - Query based Batching attack check.
 - Executing custom query.
 
 ## Installation
-# stainql-GUI
+
+clone the repo
+`git clone https://github.com/sumeet-darekar/stainql-GUI.git`
+
+requirements.txt
+` pip install -r requirements.txt`
+
+Run the GUI interface
+`python3 main.py`
