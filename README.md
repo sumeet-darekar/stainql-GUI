@@ -32,3 +32,8 @@ Run the GUI interface
 
 ### Vedio
 [demo_stainql.webm](https://github.com/user-attachments/assets/e8c4c87e-ee3c-41b8-a179-c42464a8607f)
+
+
+## New Features
+
+- custom query
